@@ -14,7 +14,7 @@ List of current tools:
 - restic
 - jupyterlab
 - logseq
-- Jopin & Joplin Server
+- Joplin & Joplin Server
 - Docker
 
 To Eval
