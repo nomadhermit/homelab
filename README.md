@@ -16,9 +16,11 @@ List of current tools:
 - logseq
 - Joplin & Joplin Server
 - Docker
+- gitea
 
 To Eval
 - atuin
 - Truenas Scale
 - Zed
+- Forgejo
 - 
