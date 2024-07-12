@@ -13,7 +13,12 @@ List of current tools:
 - proxmox backup
 - restic
 - jupyterlab
+- logseq
+- Jopin & Joplin Server
+- Docker
 
 To Eval
 - atuin
+- Truenas Scale
+- Zed
 - 
