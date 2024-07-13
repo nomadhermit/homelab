@@ -17,8 +17,10 @@ List of current tools:
 - Joplin & Joplin Server
 - Docker
 - gitea
+- influxdb
+- grafana
 
-To Eval
+To Eval:
 - atuin
 - Truenas Scale
 - Zed
